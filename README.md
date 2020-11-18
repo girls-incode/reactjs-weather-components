@@ -4,3 +4,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 
 ![ReactWeatherComponent](https://github.com/girls-incode/reactjs-weather-components/blob/master/girlsincode-react-weather.gif)
+
+#### Packages used:
+- React
+- react-reel
+- framer-motion
+- Styled Components
+- react-spinners/PulseLoader
