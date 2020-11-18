@@ -3,3 +3,4 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Reactjs Weather app using openweathermap.org API
 
 
+![ReactWeatherComponent](https://github.com/girls-incode/reactjs-weather-components/blob/master/girlsincode-react-weather.gif)
